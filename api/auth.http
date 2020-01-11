@@ -1,0 +1,19 @@
+### Login with an exsiting user
+POST http://localhost:8000/auth/login
+Content-Type: application/json
+
+{
+  "email": "admin@admin.com",
+  "password": "admin"
+}
+
+### Create new user
+POST http://localhost:8000/auth/register
+Content-Type: application/json
+
+{
+  "email": "admin@admin.com",
+  "password": "admin"
+}
+
+###

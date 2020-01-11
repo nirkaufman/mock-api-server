@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@admin.com",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "email": "nir@500tech.com",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "email": "nirkaufman@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
